@@ -17,6 +17,7 @@
     <scm>
         <connection>scm:git:git@github.com:YugandharGali/maven-create-branch.git</connection>
         <developerConnection>scm:git:git@github.com:YugandharGali/maven-create-branch.git</developerConnection>
+        <url>https://github.com/YugandharGali/maven-create-branch</url>
         <tag>branch-1.1.1-SNAPSHOT</tag>
     </scm>
 
