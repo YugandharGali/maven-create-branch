@@ -59,3 +59,4 @@ docker-compose-local.yml
 /aconex-ingress.csr
 /aconex-ingress.key
 /keystore
+pom.xml.releaseBackup
